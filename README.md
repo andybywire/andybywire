@@ -1,4 +1,6 @@
-## Hi there 👋
+### Information Architecture & Content Strategy Consultant
+
+I help mission-driven organizations create sustainable content ecosystems that are easy to understand and pleasant to use.
 
 <!--
 **andybywire/andybywire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
