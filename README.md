@@ -1,4 +1,4 @@
-### Information Architecture & Content Strategy Consultant
+### Information architecture & content strategy consultant
 
 I help mission-driven organizations create sustainable content ecosystems that are easy to understand and pleasant to use.
 
