@@ -1,4 +1,4 @@
-### Information architecture & content strategy consultant
+### Language nerd. Incorrigible tinkerer.
 
 Currently exploring the intersection of web semantics, content ecosystem design, and responsible language model integration. 
 
