@@ -1,6 +1,6 @@
 ### Information architecture & content strategy consultant
 
-I help mission-driven organizations create sustainable content ecosystems that are easy to understand and pleasant to use.
+Currently exploring the intersection of web semantics, content ecosystem design, and responsible language model integration. 
 
 <!--
 **andybywire/andybywire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
