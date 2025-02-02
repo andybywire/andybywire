@@ -1,4 +1,4 @@
-### Language nerd. Incorrigible tinkerer.
+### Content ecologist. Language nerd. Incorrigible tinkerer.
 
 Currently exploring the intersection of web semantics, content ecosystem design, and responsible language model integration. 
 
